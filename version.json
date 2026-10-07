@@ -1,5 +1,14 @@
 {
-  "wersja": "0.13.1",
-  "zmiany": ["This is a test of the update notice"],
+  "wersja": "0.13.0",
+  "zmiany": [
+    "Report a bug right from the panel (⋯ menu)",
+    "A notice when a new version is out",
+    "Templates 1, 2 and 3 animate by themselves (AUTO)",
+    "AUTO links groups with a shorter move, IN is always Slide",
+    "Gallery: In/Out titles link to the words before, new “word by word” option",
+    "The title template is now Toolkit Title (Effects › Titles › EasyMotion)",
+    "The panel is now in Workspace › Scripts › Utility",
+    "Style window: Size, Tracking and Opacity sliders (fine Tracking)"
+  ],
   "pobierz": ""
 }
