@@ -1,14 +1,13 @@
 {
-  "wersja": "0.13.0",
+  "wersja": "0.14.0",
   "zmiany": [
-    "Report a bug right from the panel (⋯ menu)",
-    "A notice when a new version is out",
-    "Templates 1, 2 and 3 animate by themselves (AUTO)",
-    "AUTO links groups with a shorter move, IN is always Slide",
-    "Gallery: In/Out titles link to the words before, new “word by word” option",
-    "The title template is now Toolkit Title (Effects › Titles › EasyMotion)",
-    "The panel is now in Workspace › Scripts › Utility",
-    "Style window: Size, Tracking and Opacity sliders (fine Tracking)"
+    "License key: paste the key from your Payhip e-mail once — works on 2 computers, also offline",
+    "Gallery: 48 ready-made titles, new CLEAN 2 and CLEAN 2 2 styles",
+    "Export and import whole styles as .emstyle files",
+    "Delete built-in styles you don't use",
+    "Word by word: short words no longer remove the whole line",
+    "A title without a neighbour keeps its own animation",
+    "⌘V and a Paste button now work in all text fields"
   ],
   "pobierz": ""
 }
