@@ -1,13 +1,15 @@
 {
-  "wersja": "0.14.0",
+  "wersja": "0.15.0",
   "zmiany": [
-    "License key: paste the key from your Payhip e-mail once — works on 2 computers, also offline",
-    "Gallery: 48 ready-made titles, new CLEAN 2 and CLEAN 2 2 styles",
-    "Export and import whole styles as .emstyle files",
-    "Delete built-in styles you don't use",
-    "Word by word: short words no longer remove the whole line",
-    "A title without a neighbour keeps its own animation",
-    "⌘V and a Paste button now work in all text fields"
+    "New Auto tab: captions for the whole transcript in one style, with a Layouts step to fine-tune every caption",
+    "Layouts: move, resize and restyle words (Standard / Style look), move selected words to the next or previous caption",
+    "Auto keeps your title's animation and only links the directions between captions",
+    "Upper words start 4 frames earlier so the animation has time to play; very short captions are extended",
+    "Preview shows the real look: colors, gradients, glow, blur and shadow",
+    "Template 1/2/3: click = layout only, Shift-click = layout with animation",
+    "Words in a row are spaced like a normal space",
+    "Punctuation is removed when titles are created from a transcript",
+    "New built-in styles EM BOLD, EM BOLD YELLOW and EM BOUNCY, with the Kanit font family"
   ],
   "pobierz": ""
 }
