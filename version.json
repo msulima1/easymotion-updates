@@ -1,10 +1,12 @@
 {
-  "wersja": "0.15.1",
+  "wersja": "0.15.2",
   "zmiany": [
+    "One-click Download button in this window for future updates",
     "Deleting a duplicated style no longer hides built-in titles",
     "Auto no longer stops on an empty subtitle item (Resolve 21)",
     "Hover previews work without clicking the panel first",
     "Panel errors are saved to the log for better bug reports"
   ],
-  "pobierz": ""
+  "pobierz": "",
+  "plik": "Install EasyMotion Toolkit 0.15.2 (offline Mac).lua"
 }
