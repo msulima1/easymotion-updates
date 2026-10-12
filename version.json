@@ -1,12 +1,1 @@
-{
-  "wersja": "0.15.2",
-  "zmiany": [
-    "One-click Download button in this window for future updates",
-    "Deleting a duplicated style no longer hides built-in titles",
-    "Auto no longer stops on an empty subtitle item (Resolve 21)",
-    "Hover previews work without clicking the panel first",
-    "Panel errors are saved to the log for better bug reports"
-  ],
-  "pobierz": "",
-  "plik": "Install EasyMotion Toolkit 0.15.2 (offline Mac).lua"
-}
+{"wersja": "0.16.0", "zmiany": ["Auto: captions already on the timeline open as they are — change one and click Update caption to replace just that caption", "Titles with In/Out: click a style to lay out the marked words in it — as one caption or word by word", "Layouts: drag words between lines, ⇧-drag to move a row left or right, ⌘Z / ⇧⌘Z undo", "Captions end exactly when the last word is spoken; same height in the frame for every style", "Words per slide: More now really makes longer captions", "Convert Captions: works on the In/Out range and can take the look from a style", "Punctuation is removed by default", "Spacing between words matches each font, also with tracking"], "pobierz": "", "plik": "Install EasyMotion Toolkit 0.16.0 (offline Mac).lua"}
