@@ -1,1 +1,11 @@
-{"wersja": "0.16.0", "zmiany": ["Auto: captions already on the timeline open as they are — change one and click Update caption to replace just that caption", "Titles with In/Out: click a style to lay out the marked words in it — as one caption or word by word", "Layouts: drag words between lines, ⇧-drag to move a row left or right, ⌘Z / ⇧⌘Z undo", "Captions end exactly when the last word is spoken; same height in the frame for every style", "Words per slide: More now really makes longer captions", "Convert Captions: works on the In/Out range and can take the look from a style", "Punctuation is removed by default", "Spacing between words matches each font, also with tracking"], "pobierz": "", "plik": "Install EasyMotion Toolkit 0.16.0 (offline Mac).lua"}
+{"wersja": "0.17.0", "zmiany": [
+ "Auto: Animation — From style, Customize or Off. Customize (saved with the style): Slide and Bounce, Directions, and how often Flicker, Shake IN and Blur IN play",
+ "Titles: hover a thumbnail to see the title's real animation; saving and Update are much faster",
+ "Create / Update caption: gaps up to 1 second between captions are closed",
+ "Style creator: new Outline — a real stroke around the letters, with its own width and color (the old option is now called Borders)",
+ "Toolkit Title Inspector: new OUTLINE section",
+ "Style creator: clearly visible Turn off buttons for effects",
+ "⋯ menu: Go back to the previous version — if something doesn't work after an update",
+ "Report a bug: e-mail is now required so we can reply",
+ "Fixes: Update caption no longer adds animation to captions in a style without animation; Look from style keeps the style's effects"
+], "pobierz": "", "plik": "Install EasyMotion Toolkit 0.17.0 (offline Mac).lua"}
