@@ -1,11 +1,15 @@
-{"wersja": "0.17.0", "zmiany": [
- "Auto: Animation — From style, Customize or Off. Customize (saved with the style): Slide and Bounce, Directions, and how often Flicker, Shake IN and Blur IN play",
- "Titles: hover a thumbnail to see the title's real animation; saving and Update are much faster",
- "Create / Update caption: gaps up to 1 second between captions are closed",
- "Style creator: new Outline — a real stroke around the letters, with its own width and color (the old option is now called Borders)",
- "Toolkit Title Inspector: new OUTLINE section",
- "Style creator: clearly visible Turn off buttons for effects",
- "⋯ menu: Go back to the previous version — if something doesn't work after an update",
- "Report a bug: e-mail is now required so we can reply",
- "Fixes: Update caption no longer adds animation to captions in a style without animation; Look from style keeps the style's effects"
-], "pobierz": "", "plik": "Install EasyMotion Toolkit 0.17.0 (offline Mac).lua"}
+{
+  "wersja": "0.18.0",
+  "zmiany": [
+    "Bounce OUT is the same length for every word, counted from the end of the clip — words of one caption bounce out together, also after you trim a clip",
+    "Convert Captions no longer stops halfway with an error (also with another font)",
+    "Convert Captions: captions no longer drift later and later against the subtitles (seen in Resolve 20)",
+    "Report a bug: long descriptions are sent again (before, some reports were refused)",
+    "Workspace: the frame grows with the panel window — no size limit on big (4K) screens",
+    "The version number is always shown at the bottom of the ⋯ menu",
+    "If checking for updates fails when the panel opens, it quietly tries again",
+    "New licence: EasyMotion licence 2.0 (presets and Toolkit together)"
+  ],
+  "pobierz": "",
+  "plik": "Install EasyMotion Toolkit 0.18.0 (offline Mac).lua"
+}
