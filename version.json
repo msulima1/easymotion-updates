@@ -1,9 +1,1 @@
-{
-  "wersja": "0.18.1",
-  "zmiany": [
-    "Fix: on 50 and 60 fps timelines (and 59.94) the panel couldn't put anything on the timeline — Auto, Titles, + Text and Convert Captions work again",
-    "Captions now match the subtitles to the exact frame at any common frame rate (23.976–60 fps). The panel adds the matching Toolkit Title to the Toolkit bin by itself"
-  ],
-  "pobierz": "",
-  "plik": "Install EasyMotion Toolkit 0.18.1 (offline Mac).lua"
-}
+{"wersja": "0.18.2", "zmiany": ["Fix: on 29.97 and 59.94 drop-frame timelines the panel read and set the playhead a few seconds off (about 3.6 s per hour of timecode) — the Workspace could pick the wrong word, Titles and + Text could insert at the wrong spot, Auto could follow the wrong caption. Now it is frame-exact", "Fix: on 50 and 60 fps timelines (and 59.94) the panel couldn't put anything on the timeline", "Captions now match the subtitles to the exact frame at any common frame rate (23.976–60)"], "pobierz": "", "plik": "Install EasyMotion Toolkit 0.18.2 (offline Mac).lua"}
